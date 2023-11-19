@@ -1,18 +1,15 @@
-# Module 14 Mini-Project: Crowdfunding App
+# Tech Blog
 
-In this mini-project, you will work with a group to build a full-stack crowdfunding app using Node.js, Express.js, Sequelize, Handlebars.js, and MVC architecture.
+With the power of Node.js, Express.js, Sequelize, Handlebars.js, and MVC architecture, this tech blog allows people to read and comment on various topics regarding technology.
 
-## User Stories
+## Description (About Praise the AI)
 
-* As a user, I want to see a list of current projects seeking funding.
+  Praise the AI is a tech blog where unique individuals of all backgrounds can gather and discuss
+  Artificial Intelligence, by selectin a blog and making comments.
 
-* As a user, I want to be able to create an account.
+### How to use
 
-* As a registered user, I want to post my own projects to ask for funding.
-
-### Acceptance Criteria
-
-* It's done when the `/` homepage route renders a list of all projects from the database.
+  First, perform "npm run" and then "npm run start"
 
 * It's done when the `/project/:id` route renders an individual project's details based on the route parameter id.
 
@@ -94,3 +91,11 @@ If you have completed this activity, work through the following challenge with y
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Credits
+
+  TA Charlie Puente
+  TA Jaytee Padilla
+  TA Andres Jimenez
+  TA Andrew Tirpok
+
