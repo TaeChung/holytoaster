@@ -20,8 +20,16 @@ With the power of Node.js, Express.js, Sequelize, Handlebars.js, and MVC archite
 
 * You can make comments on the blogs by filling the textbox and pressing 'Comment'. ![CommentSaved1](images/CommentSaved1.png). 
 
+#### Deployed Links
 
-#### Credits
+  https://praisetheai-b42f04c9927b.herokuapp.com heroku link.
+
+
+  https://github.com/TaeChung/holytoaster github lnik.
+
+
+
+##### Credits
 
   TA Charlie Puente,
   TA Jaytee Padilla,
