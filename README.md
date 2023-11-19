@@ -23,8 +23,8 @@ With the power of Node.js, Express.js, Sequelize, Handlebars.js, and MVC archite
 
 #### Credits
 
-  TA Charlie Puente
-  TA Jaytee Padilla
-  TA Andres Jimenez
-  TA Andrew Tirpok
+  TA Charlie Puente,
+  TA Jaytee Padilla,
+  TA Andres Jimenez,
+  TA Andrew Tirpok,
   Code from Module 14 mini-project.
