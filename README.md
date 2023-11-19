@@ -5,7 +5,7 @@ With the power of Node.js, Express.js, Sequelize, Handlebars.js, and MVC archite
 ## Description (About Praise the AI)
 
   Praise the AI is a tech blog where unique individuals of all backgrounds can gather and discuss
-  Artificial Intelligence, by selectin a blog and making comments.
+  Artificial Intelligence, by selecting a blog and making comments.
 
 ### How to use
 
