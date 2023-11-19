@@ -9,7 +9,7 @@ With the power of Node.js, Express.js, Sequelize, Handlebars.js, and MVC archite
 
 ### How to use
 
-  First, perform "npm run" and then "npm run start"
+  First, register an account ![Registration-screenshot](images/signupScreenshot.png)
 
 * It's done when the `/project/:id` route renders an individual project's details based on the route parameter id.
 
